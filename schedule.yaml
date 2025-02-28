@@ -1,0 +1,156 @@
+space_time_region:
+  spatial_range:
+    minimum_longitude: 49.447757
+    maximum_longitude: 55.83674
+    minimum_latitude: 4.816751
+    maximum_latitude: 9.27749
+    minimum_depth: 0.0
+    maximum_depth: 5000.0
+  time_range:
+    start_time: 2024-09-17 23:12:00
+    end_time: 2024-09-23 23:11:00
+waypoints:
+  - instrument:
+      - CTD
+    location:
+      latitude: 5.029581
+      longitude: 49.447757
+    time: 2024-09-17 23:12:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.857264
+      longitude: 49.982089
+    time: 2024-09-18 04:34:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.835
+      longitude: 50.495984
+    time: 2024-09-18 09:39:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.828698
+      longitude: 50.95247
+    time: 2024-09-18 14:23:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.835544
+      longitude: 51.508493
+    time: 2024-09-18 19:43:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.816751
+      longitude: 51.963213
+    time: 2024-09-19 00:26:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.840376
+      longitude: 52.392737
+    time: 2024-09-19 05:09:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 4.853937
+      longitude: 52.872776
+    time: 2024-09-19 10:01:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 6.978103
+      longitude: 53.889533
+    time: 2024-09-20 02:09:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.021283
+      longitude: 53.304667
+    time: 2024-09-20 07:39:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.043061
+      longitude: 52.719368
+    time: 2024-09-20 13:08:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.029335
+      longitude: 52.230729
+    time: 2024-09-20 18:03:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.083757
+      longitude: 51.708363
+    time: 2024-09-20 23:11:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.09708
+      longitude: 51.202376
+    time: 2024-09-21 04:12:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.160827
+      longitude: 50.637866
+    time: 2024-09-21 09:35:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 7.240846
+      longitude: 50.206877
+    time: 2024-09-21 14:12:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 9.27749
+      longitude: 51.261856
+    time: 2024-09-22 05:56:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 9.211099
+      longitude: 51.849651
+    time: 2024-09-22 11:26:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 9.180024
+      longitude: 52.476171
+    time: 2024-09-22 17:09:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 9.10428
+      longitude: 53.117551
+    time: 2024-09-22 22:59:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 9.102146
+      longitude: 53.713452
+    time: 2024-09-23 04:31:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 8.991509
+      longitude: 54.426059
+    time: 2024-09-23 10:48:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 8.995606
+      longitude: 55.190871
+    time: 2024-09-23 17:20:00
+  - instrument:
+      - CTD
+    location:
+      latitude: 9.06309
+      longitude: 55.83674
+    time: 2024-09-23 23:11:00
