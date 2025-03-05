@@ -1,4 +1,4 @@
-This is th folder for th ADCP codes 
+This is the folder for the ADCP codes 
 
 Notes:
 
