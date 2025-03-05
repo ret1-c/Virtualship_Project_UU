@@ -5,4 +5,4 @@ Notes:
 VS_adcp : I need to look at the s: distance from shore, the code they gave in the tutorial needs to be adjusted, we do not have the shore in the 
 dataset like they do. Maybe we can use the bathymetry or something like that..
 
-Therefor th horizontal and vertical vlocity plots ned work!
+Therefore the horizontal and vertical velocity plots need work!
