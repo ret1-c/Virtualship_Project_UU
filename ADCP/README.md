@@ -1,4 +1,4 @@
-This is the folder for the ADCP codes 
+This is the folder for the ADCP and CTD codes and the results from Areti 
 
 1) Finish CTD plot (done)
 2) Calculate the seperate Volume and Mass Transports for the positive alongshore velocity (somali current) (work in progress)
