@@ -1,7 +1,7 @@
 This is the folder for the ADCP codes 
 
-1) Add the isopycnos on Tessa's plots
-2) Calculate the seperate Volume and Mass Transports for the positive alongshore velocity (somali current) (?)
-3) ERA5 wind plot gif
-4) Add isopicnos tto longshore and crosshore plots 
+1) Finish CTD plot (done)
+2) Calculate the seperate Volume and Mass Transports for the positive alongshore velocity (somali current) (work in progress)
+3) ERA5 wind plot mp4 (done)
+4) Add isopicnos to longshore and crosshore plots (done)
 
